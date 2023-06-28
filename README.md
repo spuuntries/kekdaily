@@ -1,0 +1,2 @@
+# kekdaily
+Kekbot daily module
